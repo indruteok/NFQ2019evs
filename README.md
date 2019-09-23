@@ -1,5 +1,5 @@
 # NFQ2019evs
-eilių valdymo sistema (toliau EVS)
+Eilių valdymo sistema (toliau EVS)
 
 Pasirinktas Backend užduoties variantas.
 Čia pateiktas projekto kodas.
